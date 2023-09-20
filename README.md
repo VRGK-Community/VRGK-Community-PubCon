@@ -1,3 +1,6 @@
+VRGK Community Public Contributions is a modified version of the VRGK Community Project which is modified and contributed to by the community, all modifications will be manually approved and will be done by "pull requests"
+Download the Unmodified Version Here - https://github.com/VRGK-Community/VRGK-Community-Project
+
 Copyright © 2023 VRGK Community Project
 
 The VRGK Community Project is a Blueprint Template for the Unreal Engine which helps to reduce the initial friction of VR Development, while also giving you access to a physics based player locomotion and interaction system.
